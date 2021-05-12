@@ -6,3 +6,7 @@ vo vt rano
 vybuchla
 bomba
 ----
+cele mesto
+sa otriasa 
+tymto vybuchom
+----
